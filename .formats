@@ -1,0 +1,6 @@
+http://if.fault.io/factors/meta
+	chapter.txt kleptic fault-1
+	references.fr text lines
+http://if.fault.io/factors/vector
+	set.v 1 fault-vc
+	system.sys 1 fault-vi
